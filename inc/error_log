@@ -1,0 +1,42 @@
+[28-Aug-2018 14:12:41 America/New_York] PHP Notice:  Undefined index: mySubCategory in /home/chuqxnoo/weshop/inc/moreSub.php on line 7
+[28-Aug-2018 15:07:36 America/New_York] PHP Notice:  Undefined index: mySubCategory in /home/chuqxnoo/weshop/inc/moreSub.php on line 7
+[31-Aug-2018 03:43:07 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:07 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:07 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[31-Aug-2018 03:43:07 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:07 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:07 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[31-Aug-2018 03:43:13 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:13 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:13 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[31-Aug-2018 03:43:13 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:13 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:13 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[31-Aug-2018 03:43:14 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:14 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[31-Aug-2018 03:43:15 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[31-Aug-2018 03:43:15 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[31-Aug-2018 03:43:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[11-Sep-2018 23:12:06 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[11-Sep-2018 23:12:06 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[11-Sep-2018 23:12:06 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[11-Sep-2018 23:12:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[11-Sep-2018 23:12:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14
+[11-Sep-2018 23:12:14 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[11-Sep-2018 23:12:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 12
+[11-Sep-2018 23:12:14 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[11-Sep-2018 23:12:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 13
+[11-Sep-2018 23:12:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/inc/add_to_cart.php on line 14

@@ -1,0 +1,24 @@
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 3
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 3
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 22
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 3
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 22
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/auth/accounts.php on line 106
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/cpanel/auth/accounts.php on line 106
+[01-Mar-2019 06:42:48 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 16
+[01-Mar-2019 07:13:02 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 11
+[01-Mar-2019 07:13:02 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 11
+[01-Mar-2019 07:13:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 22
+[01-Mar-2019 07:13:02 America/New_York] PHP Notice:  Undefined variable: con in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 11
+[01-Mar-2019 07:13:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 22
+[01-Mar-2019 07:13:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/auth/accounts.php on line 106
+[01-Mar-2019 07:13:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/chuqxnoo/weshop/cpanel/auth/accounts.php on line 106
+[01-Mar-2019 07:13:02 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/chuqxnoo/weshop/cpanel/inc/dbc.php on line 16
+[01-Mar-2019 07:13:28 America/New_York] PHP Notice:  Undefined variable: shop_id in /home/chuqxnoo/weshop/cpanel/index.php on line 48
+[01-Mar-2019 07:20:11 America/New_York] PHP Notice:  Undefined variable: shop_id in /home/chuqxnoo/weshop/cpanel/index.php on line 48
+[23-May-2019 05:21:22 America/New_York] PHP Notice:  Undefined variable: shop_id in /home/chuqxnoo/weshop/cpanel/index.php on line 48
+[23-May-2019 05:23:08 America/New_York] PHP Notice:  Undefined variable: shop_id in /home/chuqxnoo/weshop/cpanel/index.php on line 48
+[26-May-2019 19:05:25 America/New_York] PHP Notice:  Undefined index: shop_name in /home/chuqxnoo/weshop/cpanel/inc/shop-sidebar.php on line 8
+[26-May-2019 19:05:25 America/New_York] PHP Notice:  Undefined variable: shop_id in /home/chuqxnoo/weshop/cpanel/index.php on line 48
+[26-May-2019 19:05:40 America/New_York] PHP Notice:  Undefined index: shop_name in /home/chuqxnoo/weshop/cpanel/inc/shop-sidebar.php on line 8
+[26-May-2019 19:05:40 America/New_York] PHP Notice:  Undefined variable: shop_id in /home/chuqxnoo/weshop/cpanel/index.php on line 48
